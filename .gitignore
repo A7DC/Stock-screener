@@ -2,6 +2,8 @@ algorithmic-trading/
 .ipynb_checkpoints/
 sp_500_stocks.csv
 **/secrets.py
+**/jupytergooglesheets.json
+**/client_id.json
 .DS_Store
 __pycache__
 **/recommended_trades.xlsx
