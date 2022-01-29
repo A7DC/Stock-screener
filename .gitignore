@@ -6,3 +6,7 @@ algorithmic-trading/
 .DS_Store
 __pycache__
 venv/
+
+# Specific
+output/
+log/
